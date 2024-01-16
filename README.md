@@ -20,6 +20,11 @@ For a seamless experience, gain access to the TrollStar IPA for iPhone and iPad 
 
 [Download TrollStar IPA](https://github.com/34306/TrollStar/releases/download/1.1/TrollStar_1.1.ipa)
 
+## TrollStore Finder Online
+Verify the compatibility of your iPhone/iPad with TrollStore and TrollStore 2 permanent IPA installers easily using the TrollStore Finder Online tool.
+
+[🔍 TrollStore Finder](https://iexmo.com/trollstore-finder/)
+
 ## TrollStore 2 Install: TrollStar Method for iOS 16
 How to Install TrollStore 2 On iOS 16.0-iOS 16.6.1 with TrollStar!
 
