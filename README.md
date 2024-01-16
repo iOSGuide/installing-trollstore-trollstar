@@ -1,6 +1,6 @@
 # Install TrollStore 2 via TrollStar TrollStore 2 Installer Without Jailbreak
 
-The TrollStar KFD TrollStore Installer is a cutting-edge tool designed specifically for iOS versions 16 to 16.6.1. To embark on this journey, acquire the latest version of the TrollStar IPA for free, supporting a wide range of iPhones, from the iPhone 8/X to the powerful iPhone 14 Pro Max, including M1/M2 chips, all running iOS 16.0-16.6.1.
+The TrollStar KFD TrollStore installer is a new tool designed for iOS 16 to iOS 16.6.1. Download the latest version of the TrollStar IPA. The TrollStar IPA is free for installing TrollStore, offering support for iPhone 8/X to iPhone 14 Pro Max (including M1/M2), and is compatible with iOS 16.0-16.6.1. The TrollStar IPA provides an easier alternative for installing TrollStore 2 compared to [installing via the Misaka tweak manager](https://iexmo.com/updates/misaka-ipa-ios/)
 
 ## TrollStar KFD TrollStore Installer for TrollStore 2
 
@@ -12,7 +12,7 @@ To initiate the installation, the Tips app from the App Store plays a pivotal ro
 
 For a seamless experience, gain access to the TrollStar IPA for iPhone and iPad through a direct download.
 
-![TrollStar App Icon](https://github.com/iOSGuide/installing-trollstore-misaka/blob/main/Install%20TrollStore%202%20via%20Misaka.png)
+![TrollStar App Icon](https://github.com/iOSGuide/installing-trollstore-trollstar/blob/main/Install%20TrollStar%20TrollStore%202%20via%20TrollsMe%20AppStore.png)
 
 [Download TrollStar IPA for TrollStore 2 - Direct](https://iospack.com/vip/)
 
