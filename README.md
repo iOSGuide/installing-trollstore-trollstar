@@ -96,4 +96,4 @@ Acknowledging the contributors behind the scenes:
 
 By following this comprehensive guide, users can effortlessly and securely install TrollStore 2 via the TrollStar KFD TrollStore Installer, enriching their iOS customization experience without the need for jailbreaking.
 
-**Note: This installation guide is provided for educational purposes only.**
+*Note: This installation guide is provided for educational purposes only.*
