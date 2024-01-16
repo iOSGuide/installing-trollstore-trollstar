@@ -26,13 +26,13 @@ Ensure your device is running iOS/iPadOS 16.2 to 16.6.1, with the Tips app insta
 1. A device running iOS/iPadOS 16.2 to 16.6.1.
 2. The Tips app installed on your device.
 3. The latest version of Sideloadly.
-  - [Download Sideloadly IPA Installer](https://iexmo.com/sideloadly/)
+    - [Download Sideloadly IPA Installer](https://iexmo.com/sideloadly/)
 5. The latest version of iTunes (Windows Users).
- - [Download iTunes](https://www.apple.com/itunes/download/win32)
-6. The latest version of TrollStar KFD TrollStore Installer.
- - [Download TrollStar IPA](https://iexmo.com/ipastore/trollstore-ipa-apps/)
+    - [Download iTunes](https://www.apple.com/itunes/download/win32)
+7. The latest version of TrollStar KFD TrollStore Installer.
+   - [Download TrollStar IPA](https://iexmo.com/ipastore/trollstore-ipa-apps/)
 7. Download TrollsMe for TrollStore 2.
-  - [Download TrollsMe](https://iospack.com/apps/trollsme-trollstore/)
+   - [Download TrollsMe](https://iospack.com/apps/trollsme-trollstore/)
 
 ### Installing the TrollStar KFD TrollStore Installer
 1. Open [Sideloadly](https://iexmo.com/sideloadly/)
@@ -44,12 +44,12 @@ Ensure your device is running iOS/iPadOS 16.2 to 16.6.1, with the Tips app insta
 7. The app will now install on your iOS device.
 
 ### Trusting the TrollStar KFD TrollStore Installer
-1. Navigate to Settings > General > Device Management > <Your Apple ID>
-2. Trust "<Your AppleID>"
+1. Navigate to Settings > General > Device Management > Your AppleID
+2. Trust your AppleID
 3. The TrollStar application can now be opened from the home screen.
 
 ### Injecting TrollStore Helper using KFD TrollStore Installer
-1. Open TrollStar app
+1. Open TrollStar KFD TrollStore Installer app
 2. Tap 'kopen'
 3. If the device reboots, wait and try again
 4. Tap 'Install TrollStore Helper to Tips'
