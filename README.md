@@ -16,7 +16,7 @@ For a seamless experience, gain access to the TrollStar IPA for iPhone and iPad 
 
 ![TrollStar App Icon](https://github.com/iOSGuide/installing-trollstore-trollstar/blob/main/Install%20TrollStar%20TrollStore%202%20via%20TrollsMe%20AppStore.png)
 
-[Download TrollStar IPA for TrollStore 2 - Direct](https://iospack.com/vip/)
+[Download TrollStar IPA for TrollStore 2 - Direct](https://iospack.com/apps/trollsme-trollstore/)
 
 [Download TrollStar IPA](https://github.com/34306/TrollStar/releases/download/1.1/TrollStar_1.1.ipa)
 
